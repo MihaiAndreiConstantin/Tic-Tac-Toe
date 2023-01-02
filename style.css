@@ -1,0 +1,32 @@
+.box {
+    align-items: center;
+    height: 100px;
+    width: 100px;
+    border: 2px solid darkorange;;
+    font-family: cursive;
+    color: darkorange;
+    font-size: 70px;
+    background-color: transparent;
+}
+
+.restartBtn {
+    height: 50px;
+    width: 100px;
+    color: darkorange;
+    background: transparent;
+    border: 0px;
+    font-family: cursive;
+}
+
+h1 {
+    color: darkorange;
+    font-family: cursive;
+}
+h4 {
+    color: darkorange;
+    font-family: cursive;
+}
+
+p {
+    color: transparent;
+}
